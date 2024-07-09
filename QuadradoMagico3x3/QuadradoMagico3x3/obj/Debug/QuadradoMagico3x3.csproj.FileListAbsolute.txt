@@ -1,0 +1,21 @@
+D:\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.exe.config
+D:\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.exe
+D:\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.pdb
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.AssemblyReference.cache
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.SuggestedBindingRedirects.cache
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.frmQuadrado.resources
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.Properties.Resources.resources
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.GenerateResource.cache
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.CoreCompileInputs.cache
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.exe
+D:\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.pdb
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.exe.config
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.exe
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\bin\Debug\QuadradoMagico3x3.pdb
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.frmQuadrado.resources
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.Properties.Resources.resources
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.exe
+C:\Users\User\Downloads\Quadrado Mágico 3X3-20240709T225706Z-001\Quadrado Mágico 3X3\QuadradoMagico3x3\QuadradoMagico3x3\obj\Debug\QuadradoMagico3x3.pdb
